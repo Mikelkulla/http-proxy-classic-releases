@@ -1,0 +1,14 @@
+{
+  "schema": 1,
+  "stable": {
+    "latestVersion": "0.6.7",
+    "minimumVersion": "0.0.0"
+  },
+  "beta": {
+    "latestVersion": "0.6.7",
+    "minimumVersion": "0.0.0"
+  },
+  "message": "This version is no longer supported. Please install the latest release.",
+  "downloadUrl": "https://github.com/OWNER/http-proxy-classic-releases/releases/latest",
+  "betaExpiryExtendedTo": null
+}
