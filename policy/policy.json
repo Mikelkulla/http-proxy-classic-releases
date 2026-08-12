@@ -5,7 +5,7 @@
     "minimumVersion": "0.0.0"
   },
   "beta": {
-    "latestVersion": "0.7.0",
+    "latestVersion": "0.7.1",
     "minimumVersion": "0.7.0"
   },
   "message": "This version is no longer supported. Please install the latest release.",
