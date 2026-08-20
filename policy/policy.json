@@ -5,8 +5,8 @@
     "minimumVersion": "0.0.0"
   },
   "beta": {
-    "latestVersion": "0.8.0",
-    "minimumVersion": "0.8.0"
+    "latestVersion": "0.8.1",
+    "minimumVersion": "0.8.1"
   },
   "message": "This version is no longer supported. Please install the latest release.",
   "downloadUrl": "https://github.com/Mikelkulla/http-proxy-classic-releases/releases/latest",
